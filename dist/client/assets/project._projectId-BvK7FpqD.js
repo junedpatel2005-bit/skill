@@ -1,0 +1,1 @@
+import{b2 as e}from"./index-Chs6baLJ.js";const s=({error:t})=>e.jsxs("div",{className:"p-10 text-center",children:[e.jsx("h2",{className:"text-xl font-semibold",children:"Project not found"}),e.jsx("p",{className:"mt-2 text-sm text-muted-foreground",children:t?.message||"This project doesn't exist or you don't have access to it."})]});export{s as errorComponent};

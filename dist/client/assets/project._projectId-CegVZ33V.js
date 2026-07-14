@@ -1,0 +1,1 @@
+import{b2 as t}from"./index-Chs6baLJ.js";const e=()=>t.jsxs("div",{className:"p-10 text-center",children:[t.jsx("h2",{className:"text-xl font-semibold",children:"Project not found"}),t.jsx("p",{className:"mt-2 text-sm text-muted-foreground",children:"The project you're looking for doesn't exist."})]});export{e as notFoundComponent};
